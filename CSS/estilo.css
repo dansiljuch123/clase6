@@ -1,0 +1,96 @@
+*{
+    margin: 10px;
+    
+}
+
+#principal{
+    margin: auto;
+    margin-top: 30px;
+    width: 600px;
+    height: 600px;
+    background-color: green;
+ 
+}
+#caja1{
+    width: 200px;
+    height: 20px;
+    background-color: green;
+    margin: auto;
+    border-radius: 100px;
+}
+#caja2{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    border: solid rgb(226, 219, 219);
+    border-radius: 100px;
+}
+
+#caja3{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: auto;
+    border: solid rgb(238, 234, 234);
+    border-radius: 100px;
+}
+#caja4{
+    width: 200px;
+    height: 50px;
+    
+    background-color: rgb(201, 117, 21);
+    margin: auto;
+    border: solid rgb(236, 230, 230);
+    border-radius: 100px;
+    float: inline-start;
+}
+#caja41{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(201, 117, 21);
+    margin: auto;
+    border: solid rgb(226, 236, 227);
+    border-radius: 100px;
+    float: inline-end;
+}
+
+#caja5{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin: auto;
+    border: solid rgb(228, 223, 223);
+    border-radius: 150px;
+}
+#ojod{
+    border-radius: 100px;
+    margin-top: 30px;
+    float: right;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#ojoi{
+    border-radius: 100px;
+    margin-top: 30px;
+    
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+#boca{
+
+    float: left;
+    border-radius: 10px;
+    width: 50px;
+    height: 20px;
+
+    background-color: black;
+}
+
+
+
+
+
